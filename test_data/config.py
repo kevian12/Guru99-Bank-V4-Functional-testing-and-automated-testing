@@ -1,0 +1,15 @@
+BASE_URL = "https://www.demo.guru99.com/V4/"
+MANAGER_URL = BASE_URL + "manager/Managerhomepage.php"
+
+LOGIN_UID = "mngr664290"
+LOGIN_PWD = "bUmugas"
+
+VALID_CUSTOMER_NAME = "John Smith"
+VALID_DOB = "1990-01-15"
+VALID_ADDR = "123 Main St"
+VALID_CITY = "New York"
+VALID_STATE = "NY"
+VALID_PIN = "500001"
+VALID_MOBILE = "9876543210"
+VALID_EMAIL = "john_smith@test.com"
+VALID_CUST_PWD = "test123"
